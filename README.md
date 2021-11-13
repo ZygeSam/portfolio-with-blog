@@ -1,3 +1,6 @@
+<h3> Install Laravel</h3>
+<h3> Clone this repo and replace them with the blank laravel app you have</h3>
+<h3> Run the migrations </h3>
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
