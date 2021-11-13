@@ -1,5 +1,15 @@
 <h3> Install Laravel</h3>
 <h3> Clone this repo and replace them with the blank laravel app you have</h3>
+<h3> Create db called zblog </h3>
+<h3> Add the Db name and other credentials to your .env file </h3>
+<code> 
+DB_CONNECTION=mysql <br/>
+DB_HOST=127.0.0.1 <br/>
+DB_PORT=3306 <br/>
+DB_DATABASE=zblog <br/>
+DB_USERNAME=root <br/>
+DB_PASSWORD=
+  </code>
 <h3> Run the migrations </h3>
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
